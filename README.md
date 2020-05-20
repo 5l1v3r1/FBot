@@ -1,5 +1,5 @@
 # FBot
-Bot Facebook by N1ght.Hax0r
+[DISCONTINUED] Bot Facebook
 # Dependency
 php, php-curl
 # Usage
